@@ -1,7 +1,9 @@
 Package: postGIStools
 Type: Package
 Title: Tools for Interacting with 'PostgreSQL' / 'PostGIS' Databases
-Description: Functions to convert geometry and 'hstore' data types from
+Description: (Note: This package is deprecated. For new projects, We recommend 
+    using the 'sf' package to interface with geodatabases.) 
+    Functions to convert geometry and 'hstore' data types from
     'PostgreSQL' into standard R objects, as well as to simplify
     the import of R data frames (including spatial data frames) into 'PostgreSQL'.
 Version: 0.2.1

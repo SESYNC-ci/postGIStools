@@ -3,6 +3,8 @@ postGIStools
 
 [![Travis-CI Build Status](https://travis-ci.org/SESYNC-ci/postGIStools.svg?branch=master)](https://travis-ci.org/SESYNC-ci/postGIStools)
 
+**Note**: This package is deprecated. For new projects, we recommend using the [sf](https://github.com/r-spatial/sf) package to interface with geodatabases.
+
 The postGIStools package extends the standard R / PostgreSQL interface (as implemented in RPostgreSQL) to provide support for two popular PostgreSQL extensions: *PostGIS* (spatial data) and *hstore* (key/value pairs).
 
 How to install
