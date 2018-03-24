@@ -10,7 +10,7 @@ Version: 0.2.1
 License: GPL-3
 URL: https://github.com/SESYNC-ci/postGIStools
 BugReports: https://github.com/SESYNC-ci/postGIStools/issues
-Authors@R: c(person('Philippe', 'Marchand', email = 'pmarchand@sesync.org',
+Authors@R: c(person('Philippe', 'Marchand', email = 'marchand.philippe@gmail.com',
                   role = c('aut', 'cre')),
              person('Richard', 'Ellison', role = 'aut'))
 Depends:
