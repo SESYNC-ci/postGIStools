@@ -57,4 +57,3 @@ The \code{\link{\%->\%}} operator for working with hstore columns;
   \code{\link{postgis_insert}} and \code{\link{postgis_update}} for writing
   to a PostgreSQL connection.
 }
-

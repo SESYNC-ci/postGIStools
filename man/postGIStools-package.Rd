@@ -2,8 +2,8 @@
 % Please edit documentation in R/postGIStools.R
 \docType{package}
 \name{postGIStools-package}
-\alias{postGIStools}
 \alias{postGIStools-package}
+\alias{postGIStools}
 \title{postGIStools: Tools for interacting with PostgreSQL / PostGIS Databases}
 \description{
 postGIStools facilitates the import/export of data tables between R

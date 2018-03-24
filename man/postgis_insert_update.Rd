@@ -91,4 +91,3 @@ postgis_insert(con, new_cities, "city",
 \code{\link{get_postgis_query}} for the inverse operation
   (read from database to R).
 }
-

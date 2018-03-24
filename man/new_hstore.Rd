@@ -27,4 +27,3 @@ str(contacts)
 \seealso{
 \code{\link{\%->\%}} to read or edit the resulting data structure.
 }
-

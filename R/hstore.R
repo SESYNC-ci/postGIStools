@@ -39,7 +39,7 @@ new_hstore <- function(nr) {
 #' @param hstore A hstore (i.e. list of lists).
 #' @param key Character string corresponding to a key in \code{hstore}.
 #' @return For the extract version, a vector of the same length as \code{hstore},
-#'  containing the value correponding to \code{key} for each record
+#'  containing the value corresponding to \code{key} for each record
 #'  (or \code{NA} if none). For the replace version, the modified hstore.
 #'
 #' @examples

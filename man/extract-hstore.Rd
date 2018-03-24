@@ -52,4 +52,3 @@ contacts$phone \%->\% "cell"
 \seealso{
 \code{\link{new_hstore}} to create a empty hstore.
 }
-

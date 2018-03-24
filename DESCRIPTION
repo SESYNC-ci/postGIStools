@@ -1,12 +1,12 @@
 Package: postGIStools
 Type: Package
 Title: Tools for Interacting with 'PostgreSQL' / 'PostGIS' Databases
-Description: (Note: This package is deprecated. For new projects, we recommend 
-    using the 'sf' package to interface with geodatabases.) 
-    Functions to convert geometry and 'hstore' data types from
+Description: Functions to convert geometry and 'hstore' data types from
     'PostgreSQL' into standard R objects, as well as to simplify
     the import of R data frames (including spatial data frames) into 'PostgreSQL'.
-Version: 0.2.1
+    Note: This package is deprecated. For new projects, we recommend 
+    using the 'sf' package to interface with geodatabases.
+Version: 0.2.2
 License: GPL-3
 URL: https://github.com/SESYNC-ci/postGIStools
 BugReports: https://github.com/SESYNC-ci/postGIStools/issues
@@ -29,5 +29,5 @@ Suggests:
     knitr,
     rmarkdown
 LazyData: TRUE
-RoxygenNote: 5.0.1
+RoxygenNote: 6.0.1
 VignetteBuilder: knitr
